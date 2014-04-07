@@ -1,4 +1,4 @@
-This module is no longer supported. Anyone is invited to take over!
+Maintenance for personal use : feel free to send pull request
 ===================================================================
 
 Play 2.0 PDF module
